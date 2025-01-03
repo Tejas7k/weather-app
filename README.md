@@ -72,10 +72,10 @@ weather-app/
 ## 📸 Screenshots
 
 ### Input City Name
-![Input City Name](https://via.placeholder.com/600x300?text=Enter+City+Name)
+![Input City Name](https://github.com/Tejas7k/weather-app/blob/main/images%20of%20app/input%20city%20name.png)
 
 ### Weather Display
-![Weather Display](https://via.placeholder.com/600x300?text=Weather+Details)
+![Weather Display](https://github.com/Tejas7k/weather-app/blob/main/images%20of%20app/Weather%20Display.png)
 
 ---
 

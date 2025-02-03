@@ -29,7 +29,7 @@ A simple and responsive weather app that fetches real-time weather data for any 
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/Tejas7k/weather-app.git
 cd weather-app
 ```
 
